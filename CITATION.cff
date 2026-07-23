@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If this laboratory informs your work, please cite the canonical Zenodo preprint below."
+title: "The Lucien Mirror — Public Laboratory"
+type: dataset
+
+authors:
+  - family-names: "Vermeuln"
+    given-names: "Herlon Heros"
+    orcid: "https://orcid.org/0009-0007-6299-1400"
+
+abstract: "The public laboratory around The Lucien Mirror, preserving citation guidance, provenance, research notes, diagrams, authorial translation records, documented derivatives, and future research branches without silently revising the frozen preprint."
+
+repository: "https://github.com/herlonheros/the-lucien-mirror"
+license: CC-BY-4.0
+
+keywords:
+  - "human–AI interaction"
+  - "large language models"
+  - "interactional continuity"
+  - "source provenance"
+  - "recursive constraint configuration"
+
+preferred-citation:
+  type: generic
+  status: preprint
+  authors:
+    - family-names: "Vermeuln"
+      given-names: "Herlon Heros"
+      orcid: "https://orcid.org/0009-0007-6299-1400"
+  title: "The Lucien Mirror: Recursive Constraint Configuration and Human–AI Interactional Continuity with Stateless Large Language Models"
+  doi: "10.5281/zenodo.21512846"
+  url: "https://doi.org/10.5281/zenodo.21512846"
+  publisher:
+    name: "Zenodo"
+  year: 2026
+  month: 7
+  day: 23
+  version: "1"
